@@ -1,0 +1,21 @@
+const Icons = {
+  arrowdown: require('./Icons/Arrowdown.svg'),
+  arrow: require('./Icons/Arrow.svg'),
+  arrowback: require('./Icons/Arrowback.svg'),
+  bro: require('../assets/Icons/bro.svg'),
+  group: require('./Icons/Group.svg'),
+  hidepassword: require('./Icons/hidepassword.svg'),
+  history: require('./Icons/history.svg'),
+  home: require('./Icons/home.svg'),
+  location: require('./Icons/location.svg'),
+  logo: require('./Icons/LOGO.svg'),
+  logout: require('./Icons/logout.svg'),
+  myaccount: require('./Icons/Myaccount.svg'),
+  notification: require('./Icons/Notification.svg'),
+  plus: require('./Icons/plus.svg'),
+  resetpassword: require('./Icons/resetpassword.svg'),
+  settings: require('./Icons/settings.svg'),
+  showpassword: require('../assets/Icons/showpassword.svg'),
+  tabletlogin: require('../assets/Icons/tabletlogin.svg'),
+};
+export default Icons;
